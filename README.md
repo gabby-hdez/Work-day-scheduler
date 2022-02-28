@@ -19,5 +19,5 @@ Steps:
 ![Scheduler](./Assets/05-third-party-apis-homework-demo.gif)
 
 
-GitHub URL:
-URL: 
+GitHub URL: https://github.com/gabby-hdez/Work-day-scheduler
+URL: https://gabby-hdez.github.io/Work-day-scheduler/
